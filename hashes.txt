@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Les Amants D'un Jour
+
+This log tracks the cryptographic history and versioning for the song **Les Amants D'un Jour** (les-amants-dun-jour).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T13:06:26.042168 | `v1` | `07599c7330620e29cf2e2e88d84a2236128a2a2d26f3701aa957c32499f49721` | `0ced7e9ce5a0c7e5e9a8532e234f71f9bf1e282607c894585001b26497cf8313` | `2026-06-25_les-amants-dun-jour-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
