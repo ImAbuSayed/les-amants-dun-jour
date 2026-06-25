@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-amants-dun-jour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Les Amants D'un Jour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-amants-dun-jour/) |
+| **Get License** | [Official Music Licensing for Les Amants D'un Jour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-amants-dun-jour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit noire, tes yeux brillent comme des diamants
+> On cruise dans la ville, au ralenti, doucement
+> Laisse-moi être le seul qui te donne ce frisson
+> Toi et moi ce soir, bébé, on partage la passion
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
