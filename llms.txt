@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-amants-dun-jour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Les Amants D'un Jour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-amants-dun-jour/) |
+| **Get License** | [Obtain a Music License for Les Amants D'un Jour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-amants-dun-jour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4318)
 
 ---
 
